@@ -26,3 +26,4 @@ for (var i in images) {
 }
 
 console.log(data);
+console.log(data);
