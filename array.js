@@ -24,4 +24,4 @@ for (var i in images) {
 }
 
 console.log(data);
-console.log(images);
+console.log(images2);
