@@ -1,3 +1,4 @@
 var name = "Nedzad";
+var nachname = "Nachname";
 
-console.console.log(name);
+console.console.log(name,nachname);
