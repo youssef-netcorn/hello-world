@@ -1,4 +1,4 @@
 var name = "Nedzad";
 var nachname = "Nachname";
 
-console.console.log(name,nachname);
+console.log(name,nachname);
