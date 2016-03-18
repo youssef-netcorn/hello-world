@@ -5,6 +5,7 @@ var dictionary = {
 	],
 	"images": [
 		{"id":"0","name":"PQR"},
+		{"id":"1","name":"xyz"},
 		{"id":"1","name":"xyz"}
 	]
 };
