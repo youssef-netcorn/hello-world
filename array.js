@@ -1,5 +1,9 @@
 var array = ["Name", "Vorname", "Alter"];
 
+<<<<<<< HEAD
+console.log("Hallo");
+console.log("Hallo");
+=======
 var dictionary = {
 	"data":[
 		{"id":"0","name":"ABC"},
@@ -27,3 +31,4 @@ for (var i in images) {
 
 console.log(data);
 console.log(data);
+>>>>>>> master
